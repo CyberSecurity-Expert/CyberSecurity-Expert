@@ -1,14 +1,8 @@
-- 👋 Hi, my name is Adam Abdallah
+- 👋 Hi, my name is Adam Abdallah                                                                                   ![icon](https://user-images.githubusercontent.com/86741499/125789651-ed8a7b90-f006-4311-85c0-d0df3d3366a5.png)
 - 👀 I’m interested in how computers work
 - 🌱 I’m currently learning programming (Kind of obvious)
-- 💞️ I’m looking to collaborate on GitHub repositories because I love helping people
+- 💞️ I’m looking to collaborate on GitHub repositories because I love helping people                        
 - 📫 You can reach me by emailing me at tekmunity@gmail.com
-
-
-
-![icon](https://user-images.githubusercontent.com/86741499/125789651-ed8a7b90-f006-4311-85c0-d0df3d3366a5.png)
-
-
 
 
 

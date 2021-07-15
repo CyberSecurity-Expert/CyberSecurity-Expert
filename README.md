@@ -4,6 +4,14 @@
 - 💞️ I’m looking to collaborate on GitHub repositories because I love helping people
 - 📫 You can reach me by emailing me at tekmunity@gmail.com
 
+
+
+![icon](https://user-images.githubusercontent.com/86741499/125789651-ed8a7b90-f006-4311-85c0-d0df3d3366a5.png)
+
+
+
+
+
 # Welcome
 
 Welcome to my profile. My name is Adam Abdallah and it is a pleasure to have your visit here. I like to call myself "Some Random Developer" on GitHub.

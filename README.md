@@ -11,7 +11,7 @@
 
 # Welcome
 
-Welcome to my profile. My name is Adam Abdallah and it is a pleasure to have your visit here. I  GitHub.
+Welcome to my profile. My name is Adam Abdallah and it is a pleasure to have your visit here.
 We accept all ideas and commits in order to help. I also spend some of my time commiting to repositories on GitHub and helping others grow their account.
 Please also note that I am working on a hidden project that will be released on June, 30, 2021. Be sure to check it out. The preview will be available on
 June, 18, 2021. If you'd like to support us, please follow our account.

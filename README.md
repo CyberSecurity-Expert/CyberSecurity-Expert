@@ -13,14 +13,13 @@
 
 Welcome to my profile. My name is Adam Abdallah and it is a pleasure to have your visit here.
 We accept all ideas and commits in order to help. I also spend some of my time commiting to repositories on GitHub and helping others grow their account.
-Please also note that I am working on a hidden project that will be released on June, 30, 2021. Be sure to check it out. The preview will be available on
-June, 18, 2021. If you'd like to support us, please follow our account.
+If you'd like to support us, please follow our account.
 
 # How To Report a Security Vunerability 
 
 If you find a security vunerability at all or have any slight doubt, contact me right away in the issues tab.
 If I do not answer before 48 hours, email me at tekmunity@gmail.com and I'll be sure to get back to your as soon
-as possible. Lastly, if I do not get back with your very soon, you can annoy me. I guess. Or just leave me be.
+as possible. Lastly, if I do not get back with your very soon, I will
 
 
 

@@ -19,7 +19,7 @@ If you'd like to support us, please follow our account.
 
 If you find a security vunerability at all or have any slight doubt, contact me right away in the issues tab.
 If I do not answer before 48 hours, email me at tekmunity@gmail.com and I'll be sure to get back to your as soon
-as possible. Lastly, if I do not get back with your very soon, I will
+as possible.
 
 
 
